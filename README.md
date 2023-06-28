@@ -1,0 +1,1 @@
+"Your device" is React based single-page application that has a multi-pages effect due to the use of React Router. The data is loaded from the API, and if there are any errors, we will receive an appropriate message. Also,  code is implemented using JSX, TypeScript, hooks, and functional components.
